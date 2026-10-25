@@ -2,6 +2,8 @@
 
 A modern, sleek one-page gaming platform website focused on user experience and social media engagement.
 
+![Blank Your Game home](docs/screenshot.png)
+
 ## ✨ What's New in This Refresh
 
 ### User Experience Improvements
